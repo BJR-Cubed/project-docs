@@ -1,5 +1,4 @@
-# project-docs
-
+# project-docs -  Midterm 401
 This is our docs repo
 
 ## Project Contributors
