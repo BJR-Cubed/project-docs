@@ -6,7 +6,7 @@
 
 ## User Stories
 
-
+Our User Stories are documented on our [GitHub Projects board](https://github.com/orgs/BJR-Cubed/projects/1)
 
 ## Software Requirements
 
