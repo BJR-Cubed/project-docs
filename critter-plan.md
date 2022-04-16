@@ -6,9 +6,11 @@
 
 ## User Stories
 
-Our User Stories are documented on our [GitHub Projects board](https://github.com/orgs/BJR-Cubed/projects/1)
+Our User Stories are documented on our [GitHub Projects board](https://github.com/orgs/BJR-Cubed/projects/1).
 
 ## Software Requirements
+
+Our Software Requirements are documented in our [Requirements doc](./requirements.md).
 
 ## Domain Modelling
 
