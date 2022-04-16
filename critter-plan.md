@@ -1,5 +1,9 @@
 # Project Planning for Critter
 
+## Wireframe
+
+![Our CLI Wireframe](./critter-wireframe.jpg)
+
 ## User Stories
 
 
@@ -7,6 +11,8 @@
 ## Software Requirements
 
 ## Domain Modelling
+
+![Our UML diagram](./critter-UML.jpg)
 
 ## Database Schemas
 
