@@ -5,6 +5,7 @@ This is our docs repo
 - [Project Pitches](./project-pitches.md)
 - [Requirements](./requirements.md)
 - [Project Plan](./critter-plan.md)
+- ![Project UML](./critter-UML.jpg)
 
 ## Project Contributors
 
